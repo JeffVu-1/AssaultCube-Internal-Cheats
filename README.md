@@ -16,8 +16,8 @@ I built this project to enhance my C++ programming, reverse engineering, debuggi
 
 ## <span style="color:#99ccff;">Screenshots</span>
 
-<img src="Screenshots/CheatMenu.png" class="screenshot">
-<img src="Screenshots/ESP.png" class="screenshot">
+<img src="Screenshots/CheatMenu.png" width=500px>
+<img src="Screenshots/ESP.png" width=500px>
 
 ## <span style="color:#99ccff;">Build Instructions</span>
 
