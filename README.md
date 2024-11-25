@@ -15,14 +15,6 @@ I built this project to enhance my C++ programming, reverse engineering, debuggi
 - **Teleport to Coordinates**: Allows teleportation to specific coordinates (X, Y, Z) entered by the user.
 
 ## <span style="color:#99ccff;">Screenshots</span>
-<style>
-  .screenshot {
-    width: 500px;
-    margin: 10px;
-    border: 1px solid #000;
-    border-radius:25px;
-  }
-</style>
 
 <img src="Screenshots/CheatMenu.png" class="screenshot">
 <img src="Screenshots/ESP.png" class="screenshot">
