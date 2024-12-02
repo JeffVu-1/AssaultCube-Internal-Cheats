@@ -28,7 +28,7 @@ To build this project, follow these steps:
 1. **Clone the repository**  
    First, clone the repository to your local machine using the following command:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/JeffVu-1/AssaultCube-Internal-Cheats.git
    ```
 
 2. **Open the solution**  
